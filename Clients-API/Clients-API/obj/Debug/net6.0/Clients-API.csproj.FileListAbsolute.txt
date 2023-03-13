@@ -30,3 +30,14 @@ C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\obj\Debug\
 C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\obj\Debug\net6.0\Clients-API.pdb
 C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\obj\Debug\net6.0\Clients-API.genruntimeconfig.cache
 C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\obj\Debug\net6.0\ref\Clients-API.dll
+C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\MG\Programming\C#\CSharp-ContactsAPI\Clients-API\Clients-API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
